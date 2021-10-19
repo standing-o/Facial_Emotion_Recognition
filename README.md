@@ -2,6 +2,8 @@
 - Facial emotion recognition (FER) using convolutional neural networks
 - Xception, CNN
 - Sep. 16, 2021 ~ Oct. 13, 2021
+
+### First project with the 3rd generation of data analysis club
 - This repo is maintained by 오서영, 최규진, 박지원
 
 | [Presentation](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/20211013_FER_landmark.pdf) |

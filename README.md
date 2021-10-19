@@ -16,7 +16,7 @@
 
 ### 2. Training the face landmark points | [Code](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/Face_landmark_using_CNN.ipynb)  
 - Custom designed CNN  
---> We achieved up to 117.1117 test MSE
+--> We achieved at least 117.1117 test MSE
 
 ### 3. Analysis of the landmarks of FER2013 | [Code](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/Visualization_of_Face_landmark.ipynb)  
 - Statistics of data

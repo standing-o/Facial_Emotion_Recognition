@@ -11,11 +11,11 @@
 ## Process
 ### 1. Facial emotion classification | [Code1](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/FER_using_Xception.ipynb) | [Code2](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/FER_using_CNN.ipynb)  
 - Xception architecture pre-trained on ImageNet dataset
-- Custom designed CNN
+- Custom designed CNN  
 --> We achieved up to 60.01% test accuracy with color image dataset and 65.71% with grayscale one.
 
 ### 2. Training the face landmark points | [Code](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/Face_landmark_using_CNN.ipynb)  
-- Custom designed CNN
+- Custom designed CNN  
 --> We achieved up to 117.1117 test MSE
 
 ### 3. Analysis of the landmarks of FER2013 | [Code](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/Visualization_of_Face_landmark.ipynb)  

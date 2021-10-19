@@ -9,7 +9,7 @@
 | [Presentation](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/20211013_FER_landmark.pdf) |
 
 ## Process
-### 1. Facial emotion classification | [Code1](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/FER_using_Xception.ipynb) | [Code2](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/FER_using_CNN.ipynb)  
+### 1. Facial emotion classification | [Code1](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/FER_using_Xception.ipynb), [Code2](https://github.com/OH-Seoyoung/Facial_Emotion_Recognition/blob/master/FER_using_CNN.ipynb)  
 - Xception architecture pre-trained on ImageNet dataset
 - Custom designed CNN  
 --> We achieved up to 60.01% test accuracy with color image dataset and 65.71% with grayscale one.
